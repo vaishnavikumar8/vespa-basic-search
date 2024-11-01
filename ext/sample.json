@@ -1,0 +1,52 @@
+[
+    {
+        "put": "id:product:product::1",
+        "fields": {
+            "title": "Wireless Earbuds",
+            "description": "High-quality wireless earbuds with noise cancellation and long battery life.",
+            "category": "Electronics",
+            "price": 79.99,
+            "availability": true
+        }
+    },
+    {
+        "put": "id:product:product::2",
+        "fields": {
+            "title": "Stainless Steel Water Bottle",
+            "description": "Eco-friendly, BPA-free water bottle that keeps drinks hot or cold for hours.",
+            "category": "Kitchenware",
+            "price": 24.49,
+            "availability": true
+        }
+    },
+    {
+        "put": "id:product:product::3",
+        "fields": {
+            "title": "Gaming Laptop",
+            "description": "High-performance laptop for gaming with NVIDIA graphics and Intel i7 processor.",
+            "category": "Computers",
+            "price": 1299,
+            "availability": false
+        }
+    },
+    {
+        "put": "id:product:product::4",
+        "fields": {
+            "title": "Bluetooth Speaker",
+            "description": "Portable Bluetooth speaker with excellent sound quality and waterproof design.",
+            "category": "Audio",
+            "price": 49.03,
+            "availability": true
+        }
+    },
+    {
+        "put": "id:product:product::5",
+        "fields": {
+            "title": "Smartphone Stand",
+            "description": "Adjustable stand for smartphones, ideal for watching videos and video calls.",
+            "category": "Accessories",
+            "price": 15.25,
+            "availability": true
+        }
+    }
+]
