@@ -17,5 +17,5 @@
 `vespa deploy --wait 300`
 - Feed the documents
 `vespa feed ext/1.json`
-- Successful feed will show up as "200": <number_of_documents>
+- Successful feed will show up as `"200": <number_of_documents>`
 
